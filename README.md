@@ -1,1 +1,1 @@
-# Daedalus-reluctant-assistant
+# Faust-reluctant-assistant
